@@ -1,0 +1,17 @@
+0,user,1,1,3
+0,carts-db,1,1,1
+0,carts,1,1,2
+0,orders-db,1,1,1
+0,payment,1,1,1
+0,queue-master,1,1,1
+0,orders,1,1,2
+0,router,1,1,1
+1,user,2,685,1
+1,user-db,1,801,0
+1,carts,2,681,1
+1,front_end,1,755,1
+1,catalogue,1,757,1
+2,catalogue-db,1,913,0
+2,shipping,1,686,1
+3,rabbitmq,1,1008,1
+3,queue-master,2,1541,0
